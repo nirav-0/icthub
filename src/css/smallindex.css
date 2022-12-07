@@ -1,0 +1,65 @@
+/* for the media screen less than 800px */
+
+/* Need to make changes, i just copied from original */
+
+.home6 {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-left: 150px;
+            margin-right: 150px; */
+    padding-top: 50px;
+    min-width: 361px;
+    text-align: center;
+}
+
+.home7 {
+    box-sizing: border-box;
+    /* width: 25%; */
+    float: left;
+    width: 361px;
+    height: 105px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 57px;
+    /* or 144% */
+
+    letter-spacing: 0.2px;
+
+    /* dark */
+
+    color: #081731;
+    text-align: center;
+    margin: auto;
+}
+
+
+.home8 {
+
+    box-sizing: border-box;
+    height: auto;
+    /* width: 45%; */
+
+    float: right;
+    /* padding-left: 350px; */
+    padding-top: 25px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+
+
+    /* dark */
+
+    color: #081731;
+
+    opacity: 0.71;
+    margin: auto;
+
+}

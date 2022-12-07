@@ -1,0 +1,76 @@
+body{
+    box-sizing: border-box;
+}
+.footermain{
+    background-color: white;
+}
+.footerform{
+    background-color: #006FFF;
+    border-radius: 6px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+.footerform h3{
+color:white
+}
+
+.contactform{
+    width: 60%;
+   
+    margin: auto;
+    padding: 10px;
+}
+.btn{
+   
+  color:#2C699C;
+   
+   
+}
+.icon1{
+    font-size: 13px;
+    padding: 0px;
+    margin: 0px;
+}
+.subfooter{
+   background-color:red;
+}
+.f1{
+    margin: auto;
+    display: flex;
+    width: 90%;
+    
+    flex-wrap: wrap;
+}
+.f1 #left{
+    float: left;
+    background-color: green;
+    width:80%;
+    margin: auto;
+    min-width: 360px;
+}
+.f1 #right{
+    float: right;
+    color: aliceblue;
+    background-color: blue;
+    margin: auto;
+    width: 20%;
+    text-align: center;
+    min-width: 360px;
+}
+/* for the media query */
+@media screen and (max-width: 400px) {
+    .f1 {
+           
+        width: 100%;
+    
+    }
+    .f1 #left{
+        text-align: start;
+    }
+    .f1 #right{
+text-align: start;
+    }
+
+              
+}

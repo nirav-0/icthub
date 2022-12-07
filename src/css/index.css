@@ -1,0 +1,607 @@
+body{
+box-sizing: border-box;
+}
+.home1{
+    /* position: fixed; */
+    width: auto;
+    height: auto;
+    
+    margin-top: 132px;
+    margin-left: 37px;
+    /* margin-bottom: 20px; */
+    background: #F8F9FC;
+    
+        
+   
+    
+    }
+
+    
+    
+  
+    .home2{
+      
+    font-size: 48px;
+    line-height: 127%;
+    /* or 61px */
+
+    letter-spacing: 0.2px;
+
+    /* dark */
+
+    color: #081731;
+   
+        
+    }
+    .home5{
+       
+    }
+    .home3{
+       
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    
+    
+    color: #0E0D26;
+    
+    opacity: 0.71;
+    }
+
+    .home4{
+        /*Your All Inclusive Partner For IT, Communications & Technology Solutions. */
+        
+        
+            position: relative; 
+             width: 70%;
+            /* height: 120px; */
+            /* margin-left: 156px;
+           margin-right: 156px; */
+           margin: auto;
+           
+            /* padding-bottom: 56px; */
+            padding-top: 50px;
+            /* padding-left: 150px;
+            padding-right: 150px; */
+
+         
+            font-family: 'Manrope';
+            font-style: normal;
+            font-weight: 800;
+            font-size: 36px;
+            line-height: 122%;
+            /* or 44px */
+        
+            text-align: center;
+            letter-spacing: 0.2px;
+        
+            /* dark */
+        
+            color: #081731;
+            border-bottom: #0E0D26;
+            border-bottom: 1px solid black ;
+    }
+    
+    .home6{
+        box-sizing: border-box;
+        display: flex;  
+    flex-wrap: wrap;
+        /* margin-left: 150px;
+        margin-right: 150px; */
+        padding-top: 50px;
+        min-width: 361px;
+        margin-bottom: 20px;
+    }
+
+    .home7{
+        box-sizing: border-box;
+        width: 15%;
+            float: left;
+        /* width: 216px; */
+            height: 105px;
+            min-width: 361px;
+            /* padding-top: 15px; */
+
+            font-family: 'Manrope';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 36px;
+                line-height: 57px;
+                /* or 144% */
+            
+                letter-spacing: 0.2px;
+            
+                /* dark */
+            
+                color: #081731;
+                margin: auto;
+    }
+
+
+    .home8{
+
+        box-sizing: border-box;
+        height: 66px;
+        width: 37%;
+        min-width: 361px;
+            float: left;
+        /* padding-left: 350px; */
+        /* padding-top: 25px; */
+
+        font-family: 'Manrope';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 28px;
+            /* or 156% */
+        
+        
+            /* dark */
+        
+            color: #081731;
+        
+            opacity: 0.71;
+            margin: auto;
+
+    }
+
+    .home9{
+
+     display: flex;  
+    flex-wrap: wrap;
+        /* justify-content: space-evenly; */
+        justify-content: center;
+        /* margin-top:251px ; */
+        margin-top: 20px;
+    }
+
+    .home10{
+        margin: 40px 14px;
+        
+        min-width: 361px;
+        max-width: 361px;
+        min-height: 236px;
+        text-align: center;
+        font-family: 'Manrope';
+            font-style: normal;
+            font-weight: 400;
+            /* dark */
+            
+                color: #081731;
+
+                background: #F8F9F9;
+                    border-radius: 16px;
+
+    }
+    .home10 h3{
+font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    /* identical to box height, or 145% */
+
+    text-align: center;
+    letter-spacing: 0.2px;
+
+   
+    }
+    .home10 p{
+        font-family: 'Manrope';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 26px;
+            /* or 162% */
+        
+            text-align:center;
+       padding: 0px 34px 0px 35px;
+            /* dark */
+        
+            color: #081731;
+        
+            opacity: 0.71;
+    }
+
+
+.list li{
+display:inline;
+}
+/* .imagebehind{
+    z-index: -1;
+} */
+
+
+/* css for home page for our customer success stories */
+
+.home11{
+   max-width: 484px;
+   margin: auto;
+font-family: 'Manrope';
+    font-style: normal;
+    text-align: center;
+}
+.home11 h3{
+    
+        font-weight: 800;
+        font-size: 48px;
+        line-height: 58px;
+        /* or 121% */
+    
+        
+        letter-spacing: 0.2px;
+    
+        /* dark */
+    
+        color: #081731;
+
+}
+.home11 p{
+font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #5A7184;
+}
+.home12{
+background-image: url(../img/images1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 100%;
+    height: auto;
+   
+    min-height: 400px;
+
+    display: flex;
+        flex-wrap: wrap;
+        /* justify-content: space-evenly; */
+        justify-content: center;
+        /* margin-top:251px ; */
+        margin-top: 20px;
+}
+.home13 {
+    margin: 40px 14px;
+
+    min-width: 260px;
+    max-width: 260px;
+    min-height: 236px;
+    text-align: center;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    /* dark */
+
+    color: #081731;
+
+    background: #F8F9F9;
+    border-radius: 16px;
+}
+
+.home13 h3 {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    /* identical to box height, or 145% */
+
+    text-align: center;
+    letter-spacing: 0.2px;
+
+
+}
+
+.home13 p {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+/* background-image: url(../img/star.png);
+background-repeat:no-repeat; */
+    text-align: center;
+    padding: 0px 34px 0px 35px;
+    /* dark */
+
+    color: #081731;
+
+    opacity: 0.71;
+}
+.home13 img{
+    box-sizing: border-box;
+    padding-top: 20px;
+    width: 10%;
+    
+}
+
+/* for the Turn Key Solutions From the ICTHUB  */
+
+.key{
+    text-align: center;
+        letter-spacing: 0.2px;
+        font-size: 36px;
+}
+.home14{
+    
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+
+}
+.home15{
+   
+    
+    text-align: center;
+        border-radius: 25px;
+        
+}
+.home15 h1{
+    color: #2C699C;
+    box-sizing: border-box;
+    font-size: 100px;
+    background-color: #F0F7FF;
+   width: 164px;
+   height: 164px;
+   text-align:center;
+   padding-top: 30px;
+   border-radius: 100px;
+}
+.home15 p{
+    font-size: 18px;
+    color: #2C699C;
+}
+.home16{
+    
+    text-align: center;
+   padding-top: 50px;
+}
+.home16 h4{
+font-size: 36px;
+
+    line-height:100%;
+}
+.home16 p {
+    font-size: 26px;
+    letter-spacing: 0.4px;
+}
+.home17 {
+    
+    max-width: 838px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 160%;
+    text-align: center;
+}
+.keybtn{
+    text-align: center;
+
+}
+.keybtn button{
+    background-color: #1BB4E9;
+    border-radius: 0px;
+    padding: 7px;
+    border: none;
+    padding: 15px;
+}
+.keybtn button a{
+   color: white;
+   font-size: 20px;
+   
+}
+.home18{
+   margin: auto;
+    display:flex;
+        flex-wrap: wrap;
+        padding-top: 100px;
+    
+}.home18 h5{
+font-size: 32px;
+    line-height: 48px;
+}.home18 p{
+font-size: 18px;
+    line-height: 160%;
+}
+.home18 button{
+background: #1BB4E9;
+border: none;
+font-size: 18px;
+padding: 15px;
+
+}
+.home18 button a{
+    color: white;
+}
+.home18 #left{
+    
+    width: 50%;
+    margin: auto;
+  
+    min-width: 360px;
+}
+.home18 #right {
+    width: 40%;
+    margin: auto;
+    min-width: 360px;
+    text-align: center;
+float: right;
+}
+/* for the consult part image */
+.home18 #smallright {
+display: none;
+    width: 30%;
+    margin: auto;
+    min-width: 360px;
+    text-align: center;
+    float: right;
+}
+
+
+/* for the media screen fir the free consultation part */
+
+@media screen and (max-width: 750px) {
+    .home18 #right {
+        display: none;
+            width: 30%;
+            margin: auto;
+            min-width: 360px;
+            text-align: center;
+            float: right;
+        }
+                 .home18 #smallright {
+                    display: block; 
+                     width: 30%;
+                     margin: auto;
+                     min-width: 360px;
+                     text-align: center;
+                     float: right;
+                 }
+}
+
+/* upper css for the media screen fir the free consultation part finish */
+
+.home19{
+    
+    max-width: auto;
+    margin: auto;
+    background-color:#F8F9FC ;
+        margin-top: 100px;
+        padding-top: 50px;
+        min-width: 360px;
+        height: auto;
+}
+.home19 p{
+max-width: 844px;
+    font-size: 24px;
+    line-height: 46px;
+    /* or 192% */
+    margin: auto;
+text-align: center;
+    letter-spacing: 0.3px;
+    min-width: 360px;
+
+}
+.home20{
+    display: flex;
+        flex-wrap: wrap;
+ padding-top: 50px;
+      justify-content: center;
+      margin: auto;
+      width: 85%;
+}
+.home20 img{
+
+    min-width: 107px;
+    min-height: 61px;
+    max-height: 61px;
+   margin-left: 20px;
+    padding: 10px;
+}
+.home21{
+background-color: aqua;
+/* no more in use */
+
+}
+.home22{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 70px;
+
+   
+}
+.home22 #left{
+  
+    width: 50%;
+    text-align: start;
+    
+
+}
+.home22 #left button{
+   background-color: blue;
+   color: white;
+   width: 100px;
+   border-radius: 25px;
+   padding: 10px;
+}
+.home22 #left p {
+    font-size: 32px;
+    line-height: 32px;
+    letter-spacing: 0.3px;
+}
+.home22 #right{
+  text-align: end;
+  width: 30%;
+  margin: auto;
+    
+background-color:white;
+}
+.home22 #right button{
+    border: 2px solid #1BB4E9;
+    background-color: white;
+    color: #1BB4E9;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    padding: 10px 35px 10px 35px;
+}
+
+
+/* for the blog */
+
+.blog {
+
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-evenly; */
+    justify-content: space-evenly;
+    /* margin-top:251px ; */
+    margin-top: 20px;
+}
+
+.blog1 {
+    margin: 40px 14px;
+
+    min-width: 360px;
+    max-width: 400px;
+    min-height: 500px;
+    text-align: center;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    /* dark */
+
+    color: #081731;
+
+    background: #F8F9F9;
+    border-radius: 16px;
+
+}
+
+.blog1 h3 {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    /* identical to box height, or 145% */
+
+    text-align: center;
+    letter-spacing: 0.2px;
+
+
+}
+
+.blog1 p {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    text-align: center;
+    padding: 0px 34px 0px 35px;
+    /* dark */
+
+    color: #081731;
+
+    opacity: 0.71;
+}
